@@ -1,9 +1,9 @@
 +++
- title = "Cheap French Bulldog Puppies Under $500?"
+ title = "Cheap French Bulldog Puppies Under $500 | Ethical Frenchie"
  date = "2018-12-24"
  category = ["health"]
  image = "cheap-french-bulldog-puppies-under-500_hero.jpg"
- description = "So I'm looking for a cheap french bulldog puppies under $500"
+ description = "Find where and how you can find inexpensive french bulldog puppies for under $500."
  draft = false
  showthedate = true
 +++
