@@ -1,9 +1,9 @@
 +++
- title = "Top 5 Things You Should Know When Buying a French Bulldog Puppy?"
+ title = "Top 5 Things You Should Know When Buying A French Bulldog Puppy | Ethical Frenchie"
  date = "2017-08-23"
  category = ["french bulldog care", "health"]
  image = "top-5-things-you-should-know-when-buying-a-french-bulldog-puppy_hero.jpg"
- description = "First keep in mind bringing a new french bulldog puppy to your family is a life time commitment. Ask yourself if this is something you are ready to commit to. If the answer is YES, then keep on reading."
+ description = "New to frenchie ownership? Here are 5 things you should know before you decide on a french bulldog puppy."
  draft = false
  showthedate = true
 +++
