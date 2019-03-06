@@ -1,9 +1,9 @@
 +++
- title = "Potty Train Your Frenchie"
+ title = "Potty Train Your Frenchie | Ethical Frenchie"
  date = "2018-12-13"
  category = ["french bulldog care"]
  image = "potty-train-your-frenchie_hero.jpg"
- description = "Here at Ethical Frenchie we start the potty training process early on. Our puppies understand the “potty” command at as early as 9 weeks of age. They mimic their mothers behavior an go “potty” outside every 2 hours. Positive reinforcement goes a long way. We can’t promise they will be completely potty trained when you get them, but they will have the basic understanding of it. Read more instructions on basic training provided by The French Bulldog guide below."
+ description = "Here at Ethical Frenchie we start the potty training process early on. Our puppies understand the “potty” command as early as 9 weeks of age. They mimic their mothers behavior and go “potty” outside every 2 hours. Positive reinforcement goes a long way. We can’t promise they will be completely potty trained when you get them, but they will have the basic understanding of it. Read more instructions on basic training provided by The French Bulldog guide below."
  draft = false
  showthedate = true
 +++
