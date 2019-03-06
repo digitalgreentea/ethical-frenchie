@@ -1,9 +1,9 @@
 +++
- title = "French Bulldog Home Made Treats"
+ title = "French Bulldog Home Made Treats | Ethical Frenchie"
  date = "2019-01-09"
  category = ["food", "health"]
  image = "french-bulldog-home-made-treats_hero.jpg"
- description = "Try these 5 French Bulldog Puppy treat recipes approved and loved by the Ethical Frenchie!"
+ description = "Enjoy these delicious home made treats and recipes approved and loved by the Frenchie community."
  draft = false
  showthedate = true
 +++
