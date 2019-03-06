@@ -1,9 +1,9 @@
 +++
- title = "Dog Food Brands we Trust For our Frenchie"
+ title = "Dog Food Brands We Trust For Our Frenchie | Ethical Frenchie"
  date = "2018-12-13"
  category = ["food"]
  image = "dog-food-brands-we-trust-for-our-frenchie_hero.jpg"
- description = "If you can’t cook your Frenchies food, this is as close to quality you are going to get."
+ description = "Find the best dog food brands made for just for your frenchie. If you are short on time and can’t cook for your Frenchie these dog food brands will do the job."
  draft = false
  showthedate = true
 +++
