@@ -1,9 +1,9 @@
 +++
- title = "Home Cooked Food For Your French Bulldog"
+ title = "Home Cooked Food For Your French Bulldog | Ethical Frenchie"
  date = "2019-01-09"
  category = ["food", "health"]
  image = "home-cooked-food-for-your-french-bulldog_hero.jpg"
- description = "Don’t get scared, it’s actually really simple!"
+ description = "Check out a few unique and raw recipes made for the health conscious Frenchie owner."
  draft = false
  showthedate = true
 +++
