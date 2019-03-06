@@ -1,7 +1,8 @@
 +++
- title = "French Bulldog Whelping 101"
+ title = "French Bulldog Whelping 101 | Ethical Frenchie"
  date = "2017-07-22"
  category = ["french bulldog care", "health"]
+ description = "Learn the process behind how the breeding and pregnancy process works for French Bulldogs and their puppies."
  image = "french-bulldog-whelping-101_hero.jpg"
  draft = false
  showthedate = true
