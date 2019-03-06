@@ -23,7 +23,7 @@ Another important thing on the list of **“What to know when buying a French Bu
 
 They tend to have trouble breathing due to their smushed faces, meaning they aren’t the best at regulating body temperature. Because of that French Bulldog Puppies can easily overheat in the summer, so make sure they have plenty of water and don’t stay outside for too long.
 
-French Bulldogs are usually stubborn and it takes a while to completely potty train them. Make sure you establish yourself as the alpha to gain respect from your Frenchie, which will make the whole process easier. Not only the potty training process but everything from walking on the leash to obeying simple commands. We made a blog with tips on <a href="https://ethicalfrenchie.com/potty-train-your-frenchie/">**French Bulldog potty training**</a> which has proven to work multiple times.
+French Bulldogs are usually stubborn and it takes a while to completely potty train them. Make sure you establish yourself as the alpha to gain respect from your Frenchie, which will make the whole process easier. Not only the potty training process but everything from walking on the leash to obeying simple commands. We made a <a href="https://ethicalfrenchie.com/potty-train-your-frenchie/">blog post with tips</a> on **French Bulldog potty training** which has proven to work multiple times.
 
 Now let’s just skip to supplies and grooming tips…
 
