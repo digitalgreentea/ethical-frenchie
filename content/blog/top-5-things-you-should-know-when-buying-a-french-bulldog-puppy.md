@@ -11,7 +11,7 @@
 ## About the breed:
 So.. **what to know when buying a French Bulldog Puppy?** First let’s get over some basics. French Bulldogs are one of the most popular small dog breeds in the world. They are comical, entertaining, polite to other people and animals and very loving. Sounds perfect, right?
 
-Unfortunately the French Bulldog breed definitely isn’t for everyone. French Bulldog Puppies require a lot of care and devotion that not every pet owner can provide, either due to lack of time, financial limits, etc.. If you fell in love with this breed like many do be prepared to deal with some health issues, snorting, flatulence, etc.
+Unfortunately the French Bulldog breed definitely isn’t for everyone. <a href="https://ethicalfrenchie.com/puppies/">French Bulldog Puppies</a> require a lot of care and devotion that not every pet owner can provide, either due to lack of time, financial limits, etc.. If you fell in love with this breed like many do be prepared to deal with some health issues, snorting, flatulence, etc.
 
 {{< img src="blog/top-5-things-you-should-know-when-buying-a-french-bulldog-puppy_1.jpg" alt="French Bulldog" >}}
 
