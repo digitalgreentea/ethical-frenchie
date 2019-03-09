@@ -1,5 +1,5 @@
 +++
- title = "Cheap French Bulldog Puppies Under $500 | Ethical Frenchie"
+ title = "Cheap French Bulldog Puppies Under $500"
  date = "2018-12-24"
  category = ["health"]
  image = "cheap-french-bulldog-puppies-under-500_hero.jpg"
@@ -23,7 +23,7 @@ Sometimes the price can reach up to $6000, just for that. Can you imagine? Secon
 
 Females then require to birth the puppies via C-section. Some of them can whelp naturally, but C-section is a preferred option if you want to make sure all the little pups survive. The procedure is not cheap, $1500-$2000.
 
-After the puppies are born, they need to be fed every 2-3 hours for the first 10 days, which as you can imagine can make breeders very sleep deprived. It’s also not recommended to keep the female around babies without supervision for the first week or two. Even thought Frenchies are great moms, they can accidentally kill the babies by laying on them.
+After the puppies are born, they need to be fed every 2-3 hours for the first 10 days, which as you can imagine can make breeders very sleep deprived. It’s also not recommended to keep the female around babies without supervision for the first week or two. Even though <a href="https://ethicalfrenchie.com/">Frenchies</a> are great moms, they can accidentally kill the babies by laying on them.
 
 After that come all the vet bills. Making sure all the dogs are healthy, have their shots, have been dewormed and are parasite free, etc. Don’t mention the quality food the breeders have to provide while the puppies are in their care. So if a breeder would sell **cheap French Bulldog puppies under $500**, that wouldn’t cover any of the initial expenses.
 
