@@ -1,5 +1,5 @@
 ---
-title: 4 Signs of a French Bulldog Scam and 4 Ways You Can Avoid Them | Ethical Frenchie
+title: 4 Signs of a French Bulldog Scam and 4 Ways You Can Avoid Them
 date: '2019-03-07'
 category:
   - French Bulldog
