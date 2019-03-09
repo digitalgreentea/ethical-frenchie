@@ -1,5 +1,5 @@
 +++
- title = "French Bulldog Home Made Treats | Ethical Frenchie"
+ title = "French Bulldog Home Made Treats"
  date = "2019-01-09"
  category = ["food", "health"]
  image = "french-bulldog-home-made-treats_hero.jpg"
@@ -96,3 +96,5 @@ Choose home made over store bought. You will know exactly what your French Bulld
 2. Add all of the listed ingredients into a large bowl and mix thoroughly to create a thicker batter. If you have a thinner batter than you desire, add more flour into the mix until you achieve a thicker consistency.
 3. Add the mixture in to cupcake/muffin papers, or to a greased cupcake tin, filling them 3/4 of the way full. Bake for 15 minutes until brown.
 4. Cool, then remove.
+
+Hungry for more? <a href="https://ethicalfrenchie.com/home-cooked-food-for-your-french-bulldog>Here</a> are more Home Cooked recipes for your Frenchie.
