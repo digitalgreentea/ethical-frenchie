@@ -1,5 +1,5 @@
 +++
- title = "Blue Pied French Bulldog Puppies | Ethical Frenchie"
+ title = "Blue Pied French Bulldog Puppies"
  date = "2019-01-05"
  category = ["french bulldog puppy for sale"]
  image = "the-blue-pied-french-bulldog-puppies_hero.jpg"
