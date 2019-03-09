@@ -1,5 +1,5 @@
 +++
- title = "Potty Train Your Frenchie | Ethical Frenchie"
+ title = "Potty Train Your Frenchie"
  date = "2018-12-13"
  category = ["french bulldog care"]
  image = "potty-train-your-frenchie_hero.jpg"
@@ -30,7 +30,7 @@ Each time the puppy goes in the right spot, he is being trained to relieve himse
 
 {{< img src="blog/potty-train-your-frenchie_2.gif" alt="Potty Training Your French Bulldog" >}}
 
-Place the other exercise pen in the spot you wish your Frenchie puppy to use as a permanent potty spot, both as a puppy and adult. State commands like “go potty” or “hurry up.” **After he does his duty give him a treat and tell him he was a good boy. Use your Happy Voice! If you provide your French bulldog puppy with a crate that is way too large then it may allow him to relieve himself in one end and sleep in the other which isn’t good!**
+Place the other exercise pen in the spot you wish your <a href="https://ethicalfrenchie.com/puppies/">Frenchie puppy</a> to use as a permanent potty spot, both as a puppy and adult. State commands like “go potty” or “hurry up.” **After he does his duty give him a treat and tell him he was a good boy. Use your Happy Voice! If you provide your French bulldog puppy with a crate that is way too large then it may allow him to relieve himself in one end and sleep in the other which isn’t good!**
 
 Make sure you take your Frenchie puppy outdoors to eliminate on a regular schedule and especially prior to being left for prolonged periods of time. **He will start to circle and sniff and look for a place to potty when he has to go and when you are watching him, you can quickly take him to his potty spot.** By watching closely, you will soon learn your puppy’s individual body language. Minimize his chances of making a mistake by predicting when he will need to relieve himself.
 
