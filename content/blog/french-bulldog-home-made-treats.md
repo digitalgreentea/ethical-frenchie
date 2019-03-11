@@ -77,7 +77,7 @@ Choose home made over store bought. You will know exactly what your French Bulld
 1. Mix all ingredients together, and then roll into 1-inch balls. Press flat with a fork.
 2. Bake on greased cookie sheet at 400°F for 20 minutes. Let cool before giving to your pets.
 3. Store extra cookies in the freezer or refrigerator and consume within one week. If stored in the freezer, this can stay fresh for up to three months.
-4. Your French Bulldog Puppy is going to love this one!
+4. Your <a href="https://ethicalfrenchie.com/puppies/">French Bulldog Puppy</a> is going to love this one!
 
 ## 5. Plant Based Dog Snack 
 {{< img src="blog/french-bulldog-home-made-treats_5.jpg" alt="Plant Based Dog Snack " >}}
