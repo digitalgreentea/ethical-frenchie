@@ -12,7 +12,7 @@ description: >-
   love this breed. But, even the most informed French Bulldog enthusiasts may be
   surprised to learn some of these unique and awe-inspiring Frenchie facts.
 showthedate: true
-draft: true
+draft: false
 ---
 1.	French Bulldogs are a Hit with Hollywood Royalty
 
