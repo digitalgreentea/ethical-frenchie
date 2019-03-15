@@ -22,7 +22,7 @@
     '/fonts/Ubuntu-Bold.woff2',
     '/fonts/Ubuntu-Regular.woff',
     '/fonts/Ubuntu-Regular.woff2',
-    '/js/bundle.js'
+    '/js/bundle.js',
   ];
   function updateStaticCache() {
     // These items must be cached for the Service Worker to complete installation
