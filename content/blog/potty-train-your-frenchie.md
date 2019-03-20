@@ -1,5 +1,5 @@
 +++
- title = "Potty Train Your Frenchie | Ethical Frenchie"
+ title = "Potty Train Your Frenchie"
  date = "2018-12-13"
  category = ["french bulldog care"]
  image = "potty-train-your-frenchie_hero.jpg"
