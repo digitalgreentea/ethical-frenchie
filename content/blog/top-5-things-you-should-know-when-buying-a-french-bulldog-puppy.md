@@ -1,5 +1,5 @@
 +++
- title = "Top 5 Things You Should Know When Buying A French Bulldog Puppy | Ethical Frenchie"
+ title = "Top 5 Things You Should Know When Buying A French Bulldog Puppy"
  date = "2017-08-23"
  category = ["french bulldog care", "health"]
  image = "top-5-things-you-should-know-when-buying-a-french-bulldog-puppy_hero.jpg"
