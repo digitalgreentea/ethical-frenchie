@@ -1,5 +1,5 @@
 +++
- title = "Home Cooked Food For Your French Bulldog | Ethical Frenchie"
+ title = "Home Cooked Food For Your French Bulldog"
  date = "2019-01-09"
  category = ["food", "health"]
  image = "home-cooked-food-for-your-french-bulldog_hero.jpg"
