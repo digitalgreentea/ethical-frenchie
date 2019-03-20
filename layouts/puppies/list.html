@@ -44,7 +44,7 @@
     var xhr = new XMLHttpRequest();
     // Timeout log
     xhr.ontimeout = function () {
-      console.error("The request for " + url + " timed out.");
+      console.error(`The request for ${url} timed out.`);
     };
     // Setup callback
     xhr.onload = function() {
@@ -53,7 +53,7 @@
       }
       if (xhr.readyState != 4) return;
       if (xhr.status != 200 && xhr.status != 304) {
-        console.log('HTTP error ' + xhr.status);
+        console.log(`HTTP error ${xhr.status}`);
         return;
       }
     }
@@ -76,10 +76,11 @@
   // Activate instant articles on click
   let openArtLink = document.querySelectorAll('a.button.instant')
   openArtLink.forEach(link => {
+    const urlnew = window.location.href
     link.removeAttribute('href')
     link.addEventListener('click', () => {
       const data = link.getAttribute('data-instant')
-      const instArt = document.querySelector('article#'+data)
+      const instArt = document.querySelector(`article#${data}`)
       const img = instArt.querySelectorAll('figure > img')
       instant.classList.add('active')
       instArt.classList.add('active')
@@ -88,17 +89,20 @@
         i.setAttribute('src',l)
         i.classList.add('loaded')
       })
+      window.history.replaceState(urlnew, data,`/puppies/${data}`)
     })
   })
 
   // Close instant articles
-  var closeInst = name => {
-    const instArt = document.querySelector('article#'+name)
+  const closeInst = name => {
+    const instArt = document.querySelector(`article#${name}`)
+    const urlnew = window.location.href
     instant.classList.remove('active')
     console.log(instArt)
     setTimeout(() => {
       instArt.classList.remove('active')
     }, 250);
+    window.history.replaceState(urlnew, 'puppies','/puppies/')
   }
 </script>
 {{ end }}
