@@ -6,7 +6,7 @@ category:
   - French Bulldog
   - Frenchie KB
 author: Renee Harrison
-image: /img/blog/cheap-french-bulldog-puppies-under-500_5.jpg
+image: cheap-french-bulldog-puppies-under-500_5.jpg
 description: >-
   So, you’re reading a French Bulldog blog -- it’s apparent that you probably
   love this breed. But, even the most informed French Bulldog enthusiasts may be
@@ -64,7 +64,7 @@ But this doesn’t prevent them from being able to wade in shallow water or take
 
 6. ## Ribbit, Ribbit! Here Comes the Frog Dog!
 
-{{< img src="blog/fenglish-bulldog-french-bulldog-puppy.jpg" alt="Happy Frenchie Puppy from Ethical Frenchie" >}}
+{{< img src="blog/english-bulldog-french-bulldog-puppy.jpg" alt="Happy Frenchie Puppy from Ethical Frenchie" >}}
 
 While Frenchies are known for being a Yankee favorite, they rarely get called “Yankee dogs.” In fact, you’re much more likely to here one of these love bugs referred to as “frog dogs.” This may seem odd since they aren’t aquatic athletes, but it has more to do with their origin and appearance.
 
