@@ -1,12 +1,14 @@
-+++
- title = "Dog Food Brands We Trust For Our Frenchie"
- date = "2018-12-13"
- category = ["food"]
- image = "dog-food-brands-we-trust-for-our-frenchie_hero.jpg"
- description = "Find the best dog food brands made for just for your frenchie. If you are short on time and can’t cook for your Frenchie these dog food brands will do the job."
- draft = false
- showthedate = true
-+++
+---
+title: Dog Food Brands We Trust For Our Frenchie
+date: '2018-12-13'
+category:
+  - food
+image: 'img/blog/dog-food-brands-we-trust-for-our-frenchie_hero.jpg'
+description: >-
+  Find the best dog food brands made for just for your frenchie. If you are short on time and can’t cook for your Frenchie these dog food brands will do the job.
+draft: false
+showthedate: true
+---
 
 Even the best kibble is still highly processed at the end of the day, so make sure you add fresh fruit like blueberries and veggies to every meal. If you transition to <a href="https://ethicalfrenchie.com/home-cooked-food-for-your-french-bulldog">raw</a> do it slowly so that your frenchie’s digestive system can handle it.
 

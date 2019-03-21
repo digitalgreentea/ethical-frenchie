@@ -1,9 +1,10 @@
-+++
- title = "About Us | Ethical Frenchie"
- description = "Ethical Frenchie is the #1 French Bulldog adoption service and breeder on the East Coast."
- draft = false
- showthedate = false
-+++
+---
+title: About Us | Ethical Frenchie"
+description: >-
+  'Ethical Frenchie is the #1 French Bulldog adoption service and breeder on the East Coast.'
+draft: false
+showthedate: false
+---
 
 Hi! We're James & Renee (and now Bryan!), nice to meet you. We are a small, exclusive French Bulldog breeder located on the East Coast. Our breeding program is focused on extra care, socialization and improving the breed. We aren’t your typical “Mom and Pops breeder” that has been around for 20 years. We are started breeding 3 years ago but expanded our program in 2018. We are responsible, knowledgeable and caring which makes us stand out in the sea of faulty backyard breeders and puppy mills.
 

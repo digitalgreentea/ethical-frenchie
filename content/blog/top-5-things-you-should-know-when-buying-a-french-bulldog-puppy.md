@@ -1,12 +1,15 @@
-+++
- title = "Top 5 Things You Should Know When Buying A French Bulldog Puppy | Ethical Frenchie"
- date = "2017-08-23"
- category = ["french bulldog care", "health"]
- image = "top-5-things-you-should-know-when-buying-a-french-bulldog-puppy_hero.jpg"
- description = "New to frenchie ownership? Here are 5 things you should know before you decide on a french bulldog puppy."
- draft = false
- showthedate = true
-+++
+---
+title: Top 5 Things You Should Know When Buying A French Bulldog Puppy | Ethical Frenchie
+date: '2017-08-23'
+category:
+  - french bulldog care
+  - health
+image: 'img/blog/top-5-things-you-should-know-when-buying-a-french-bulldog-puppy_hero.jpg'
+description: >-
+  New to frenchie ownership? Here are 5 things you should know before you decide on a french bulldog puppy.
+draft: false
+showthedate: true
+---
 
 ## About the breed:
 So.. **what to know when buying a French Bulldog Puppy?** First let’s get over some basics. French Bulldogs are one of the most popular small dog breeds in the world. They are comical, entertaining, polite to other people and animals and very loving. Sounds perfect, right?

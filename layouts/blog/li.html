@@ -1,5 +1,5 @@
 <article class="blog-post">
-  {{ $img := resources.Get (print "img/blog/" (.Params.image)) }}
+  {{ $img := resources.Get (.Params.image) }}
   <a href="{{ .Permalink }}" class="img-wrap">
     <img data-src="{{ $img.Permalink }}" alt="{{ .Title }}" class="lazy"/>
   </a>

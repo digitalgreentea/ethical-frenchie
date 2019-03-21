@@ -1,12 +1,14 @@
-+++
- title = "Frenchies Grooming Tips | Ethical Frenchie"
- date = "2019-01-02"
- category = ["french bulldog care"]
- image = "frenchie-grooming-tips_hero.jpg"
- description = "Learn a few tips and ticks on how to properly groom your frenchie. French Bulldogs are a sensitive dog breed so natural products work best."
- draft = false
- showthedate = true
-+++
+---
+title: Frenchies Grooming Tips | Ethical Frenchie
+date: '2019-01-02'
+category:
+  - french bulldog care
+image: 'img/blog/frenchie-grooming-tips_hero.jpg'
+description: >-
+  Learn a few tips and ticks on how to properly groom your frenchie. French Bulldogs are a sensitive dog breed so natural products work best.
+draft: false
+showthedate: true
+---
 
 - Dogs don't require everyday grooming as humans do. **You should bathe your French Bulldog when necessary, but not more than once a month, unless required by your vet.** Use gentle products made from natural ingredients. We like everything from {{< link href="https://naturaldogcompany.com/" content="The Natural Dog company" >}}, {{< link href="https://www.4-legger.com/" content="4-Legger" >}} and {{< link href="https://earthbath.com/" content="Earth Bath" >}}. They have everything necessary to give your Frenchie the ultimate spa experience.
 

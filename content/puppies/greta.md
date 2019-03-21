@@ -1,11 +1,12 @@
-+++
-  title = "Greta"
-  description = "Princess Nala is 10 weeks old and ready to adopt you."
-  image = "greta.jpg"
-  date = "2019-01-14"
-  draft = false
-  showthedate = false
-+++
+---
+title: Greta
+description: >-
+  Princess Nala is 10 weeks old and ready to adopt you."
+image: 'greta.jpg'
+date: '2019-01-14'
+draft: false
+showthedate: false
+---
 
 ## I’m Greta, a blue pied French Bulldog.
 But here’s the trick. I’m what they call a tea cup French Bulldog puppy. A tea cup French Bulldog puppy is a puppy that stays on the smaller side. I probably won’t exceed 18 lbs when I’m fully grown.

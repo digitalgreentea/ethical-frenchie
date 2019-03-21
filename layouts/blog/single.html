@@ -2,7 +2,7 @@
   {{ partial "header.html" . }}
   <main class="single">
     <article class="post">
-      {{ $img := resources.Get (print "img/blog/" (.Params.image)) }}
+      {{ $img := resources.Get (.Params.image) }}
       <figure href="{{ .Permalink }}" class="hero-wrap" style="background-image: url('{{ $img.Permalink }}')">
         <div class="overlay"></div>
         <section class="heading">

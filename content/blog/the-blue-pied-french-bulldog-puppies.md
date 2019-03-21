@@ -1,12 +1,14 @@
-+++
- title = "Blue Pied French Bulldog Puppies | Ethical Frenchie"
- date = "2019-01-05"
- category = ["french bulldog puppy for sale"]
- image = "the-blue-pied-french-bulldog-puppies_hero.jpg"
- description = "The first 2019 French Bulldog puppies are almost ready. We just couldn’t resist sharing the upcoming news of our beautiful blue french bulldog litter."
- draft = false
- showthedate = true
-+++
+---
+title: Blue Pied French Bulldog Puppies | Ethical Frenchie
+date: '2019-01-20'
+category:
+  - french bulldog puppy for sale
+image: 'img/blog/the-blue-pied-french-bulldog-puppies_hero.jpg'
+description: >-
+  The first 2019 French Bulldog puppies are almost ready. We just couldn’t resist sharing the upcoming news of our beautiful blue french bulldog litter.
+draft: false
+showthedate: true
+---
 
 Here are a few highlights since their birth in December to now...
 

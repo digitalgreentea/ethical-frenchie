@@ -1,12 +1,15 @@
-+++
- title = "Home Cooked Food For Your French Bulldog | Ethical Frenchie"
- date = "2019-01-09"
- category = ["food", "health"]
- image = "home-cooked-food-for-your-french-bulldog_hero.jpg"
- description = "Check out a few unique and raw recipes made for the health conscious Frenchie owner."
- draft = false
- showthedate = true
-+++
+---
+title: Home Cooked Food For Your French Bulldog | Ethical Frenchie
+date: '2019-01-09'
+category:
+  - food
+  - health
+image: 'img/blog/home-cooked-food-for-your-french-bulldog_hero.jpg'
+description: >-
+  Check out a few unique and raw recipes made for the health conscious Frenchie owner.
+draft: false
+showthedate: true
+---
 
 ## 1. Beef Stew by Canine Journal
 {{< img src="blog/home-cooked-food-for-your-french-bulldog_1.jpg" alt="Beef Stew by Canine Journal" >}}

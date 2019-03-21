@@ -1,11 +1,12 @@
-+++
-  title = "Pickle Rick"
-  description = "My parents watch too much Rick and Morty"
-  image = "pickle-rick.jpg"
-  date = "2018-12-10"
-  draft = false
-  showthedate = false
-+++
+---
+title: Pickle Rick
+description: >-
+  My parents watch too much Rick and Morty"
+image: 'pickle-rick.jpg'
+date: '2018-12-10'
+draft: false
+showthedate: false
+---
 
 ## Hey!
 Pickle Rick here.. I’m 10 weeks old and looking for my forever home.

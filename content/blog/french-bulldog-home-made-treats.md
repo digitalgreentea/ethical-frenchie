@@ -1,12 +1,15 @@
-+++
- title = "French Bulldog Home Made Treats | Ethical Frenchie"
- date = "2019-01-09"
- category = ["food", "health"]
- image = "french-bulldog-home-made-treats_hero.jpg"
- description = "Enjoy these delicious home made treats and recipes approved and loved by the Frenchie community."
- draft = false
- showthedate = true
-+++
+---
+title: French Bulldog Home Made Treats | Ethical Frenchie
+date: '2019-01-09'
+category:
+  - food
+  - health
+image: 'img/blog/french-bulldog-home-made-treats_hero.jpg'
+description: >-
+  Enjoy these delicious home made treats and recipes approved and loved by the Frenchie community.
+draft: false
+showthedate: true
+---
 
 Choose home made over store bought. You will know exactly what your French Bulldog Puppy is eating and avoid any stomach/allergy issues.
 

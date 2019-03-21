@@ -6,7 +6,7 @@ category:
   - French Bulldog
   - Frenchie KB
 author: Renee Harrison
-image: cheap-french-bulldog-puppies-under-500_5.jpg
+image: img/blog/cheap-french-bulldog-puppies-under-500_5.jpg
 description: >-
   So, you’re reading a French Bulldog blog -- it’s apparent that you probably
   love this breed. But, even the most informed French Bulldog enthusiasts may be

@@ -6,7 +6,7 @@ category:
   - Scams
   - Frenchie Puppy
 author: Renee Harrison
-image: 'french-bulldog-scams.jpg'
+image: 'img/blog/french-bulldog-scams.jpg'
 description: >-
   One of the most exciting parts of bringing home a Frenchie puppy is imagining
   all the memories you’ll make and all the love you’ll share with your new best
@@ -16,7 +16,7 @@ description: >-
   Unfortunately, some of the most desirable breeds are the most common targets
   of scams. You’ll find scams for French Bulldogs, Pugs, and Boston Terriers.
   And unfortunately, Frenchies are one of the most popular breeds used in these
-  scams. 
+  scams.
 
   French Bulldog scams can result in a loss of money or adopting a dog that’s
   not purebred, or even worse – a dog with a serious illness like Parvo.

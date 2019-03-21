@@ -1,12 +1,15 @@
-+++
- title = "French Bulldog Whelping 101 | Ethical Frenchie"
- date = "2017-07-22"
- category = ["french bulldog care", "health"]
- description = "Learn the process behind how the breeding and pregnancy process works for French Bulldogs and their puppies."
- image = "french-bulldog-whelping-101_hero.jpg"
- draft = false
- showthedate = true
-+++
+---
+title: French Bulldog Whelping 101 | Ethical Frenchie
+date: '2017-07-22'
+category:
+  - french bulldog care
+  - health
+description: >-
+  Learn the process behind how the breeding and pregnancy process works for French Bulldogs and their puppies.
+image: 'img/blog/french-bulldog-whelping-101_hero.jpg'
+draft: false
+showthedate: true
+---
 
 Before you start breeding your **French Bulldog** you should educate yourself as much as possible. Do research on genetics, take courses, etc. After all that re-think if this is something you want to do, because it’s a lot of work.
 
