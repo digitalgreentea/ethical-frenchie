@@ -1,5 +1,5 @@
 ---
-title: Frenchies Grooming Tips | Ethical Frenchie
+title: Frenchies Grooming Tips
 date: '2019-01-02'
 category:
   - french bulldog care
