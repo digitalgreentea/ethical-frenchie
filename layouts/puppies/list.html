@@ -81,7 +81,7 @@
     link.addEventListener('click', () => {
       const data = link.getAttribute('data-instant')
       const instArt = document.querySelector(`article#${data}`)
-      const img = instArt.querySelectorAll('figure > img')
+      const img = instArt.querySelectorAll('picture > img')
       instant.classList.add('active')
       instArt.classList.add('active')
       img.forEach(i => {
