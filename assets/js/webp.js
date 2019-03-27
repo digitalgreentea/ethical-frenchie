@@ -6,8 +6,7 @@ function WebpIsSupported(callback) {
   }
 
   // Base64 representation of a white point image
-  const webpdata =
-    'data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoCAAEAAQAcJaQAA3AA/v3AgAA=';
+  const webpdata = `data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoCAAEAAQAcJaQAA3AA/v3AgAA=`;
 
   // Retrieve the Image in Blob Format
   fetch(webpdata)
@@ -15,7 +14,7 @@ function WebpIsSupported(callback) {
       if (response.ok) {
         return response.blob();
       }
-      throw new Error('Network response was not ok.');
+      throw new Error(`Network response was not ok.`);
     })
     .then(blob => {
       // If the createImageBitmap method succeeds, return true, otherwise false
@@ -30,14 +29,14 @@ function WebpIsSupported(callback) {
     });
 }
 // Added class to supported
-const hero = document.querySelectorAll('section.hero');
+const hero = document.querySelectorAll(`section.hero`);
 WebpIsSupported(isSupported => {
   if (isSupported) {
     hero.forEach(bg => {
-      bg.classList.add('webp');
+      bg.classList.add(`webp`);
     });
-    console.log('Webp Supported');
+    console.log(`Webp Supported`);
   } else {
-    console.log('Webp Not supported');
+    console.log(`Webp Not supported`);
   }
 });
