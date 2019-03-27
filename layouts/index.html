@@ -78,7 +78,7 @@
       <h2>Our Puppies</h2>
       <p class="meta">These are our most powerful, easy to use, feature filled and fast loading products of them all.</p>
       <div class="swiper-container feat-puppies">
-        <ul class="swiper-wrapper">
+        <ul class="swiper-wrapper swiper-puppies">
           <li class="swiper-slide pairs">
             {{ range $i, $frt := .Site.Data.puppies.frenchies.top }}
             {{ $img := resources.Get (print "img/puppies/" $frt.Image) }}

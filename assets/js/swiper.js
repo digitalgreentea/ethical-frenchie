@@ -23,3 +23,12 @@ const swiperTes = new Swiper(`.swiper-testimonials`, {
   },
   slidesPerView: 1,
 });
+const swiperPup = new Swiper(`.swiper-puppies`, {
+  allowTouchMove: true,
+  initialSlide: 0,
+  navigation: {
+    nextEl: `.swiper-button-next`,
+    prevEl: `.swiper-button-prev`,
+  },
+  slidesPerView: 1,
+});
