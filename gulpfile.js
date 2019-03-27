@@ -74,14 +74,14 @@ function webpack() {
 // Image Conversion
 function convert() {
   return gulp
-    .src('assets/img/blog/*.jpg')
+    .src('assets/img/*.jpg')
     .pipe(plumber())
     .pipe(
       gm(function(gmfile) {
         return gmfile.setFormat('webp');
       })
     )
-    .pipe(gulp.dest('assets/img/blog'));
+    .pipe(gulp.dest('assets/img'));
 }
 
 // Image Optimization
