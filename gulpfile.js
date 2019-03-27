@@ -3,12 +3,17 @@
 // Load Plugins
 const autoprefixer = require('autoprefixer');
 const concat = require('gulp-concat-util');
+const cp = require('child_process');
 const cssnano = require('cssnano');
 const gulp = require('gulp');
+const htmlbeautify = require('gulp-jsbeautifier');
+const htmlmin = require('gulp-htmlmin');
 const plumber = require('gulp-plumber');
 const postcss = require('gulp-postcss');
 const rename = require('gulp-rename');
+const replace = require('gulp-replace');
 const sass = require('gulp-sass');
+const strip = require('gulp-strip-comments');
 
 // Critical CSS
 function critical() {
@@ -32,6 +37,36 @@ function critical() {
       .pipe(gulp.dest('layouts/partials'))
 }
 
+/*
+HTML Cleanup:
+- Removed HTML comments.
+- Removed extra <p> tags.
+*/
+function clean() {
+  return gulp
+  .src(['public/**/*.html'])
+  .pipe(plumber())
+  .pipe(htmlmin({ collapseWhitespace: true }))
+  .pipe(replace(/<p><(p|a|div|section|h1|h2|h3|h4|ul|li|img|figure|picture)(.*?)>/g, '<$1$2>'))
+  .pipe(replace(/<\/(p|a|div|section|h1|h2|h3|h4|ul|li|img|figure|picture)(.*?)><\/p>/g, '</$1$2>'))
+  .pipe(replace(/<p><\/p>/g, ''))
+  .pipe(htmlbeautify({
+    indent_char: ' ',
+    indent_size: 2
+  }))
+  .pipe(strip.html())
+  .pipe(gulp.dest('public'));
+}
+
+// Run Webpack
+function webpack() {
+  return cp.spawn('webpack', {
+    err: true,
+    stderr: true,
+    stdout: true
+  });
+}
+
 // Watch asset folder for changes
 function watchFiles() {
   gulp.watch('assets/css/colors.scss', critical);
@@ -41,13 +76,20 @@ function watchFiles() {
   gulp.watch('assets/css/mixins.scss', critical);
   gulp.watch('assets/css/navbar.scss', critical);
   gulp.watch('assets/css/reset.scss', critical);
+  gulp.watch('assets/js/lazy.js', webpack);
+  gulp.watch('assets/js/smooth.js', webpack);
+  gulp.watch('assets/js/swiper.js', webpack);
+  gulp.watch('assets/js/testimonials.js', webpack);
+  gulp.watch('assets/js/webp.js', webpack);
 }
 
 // Tasks
+gulp.task('cleanup', clean);
 gulp.task("critical", critical);
+gulp.task('webpack', webpack);
 
 // Run Watch as default
 gulp.task('watch', watchFiles);
 
 // Build
-gulp.task('build', gulp.series(['critical']));
+gulp.task('build', gulp.series(['critical', 'cleanup', 'webpack']));

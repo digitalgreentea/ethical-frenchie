@@ -2,21 +2,21 @@
   "name": "ethical-frenchie",
   "version": "1.0.0",
   "description": "Ethical Frenchie is the most trusted source of French Bulldog puppies for sale. We provides thorough veterinary and genetic examinations for each puppy.",
-  "main": "gulpfile.js",
+  "private": true,
   "scripts": {
-    "build": "webpack; gulp build --max_old_space_size=8000; hugo",
+    "build": "gulp build --max_old_space_size=8000; hugo --environment=production; gulp cleanup",
+    "build-dev": "gulp build --max_old_space_size=8000; node hash.js; hugo --environment=development; gulp cleanup",
     "clean": "rm -rf public resources",
     "clean-node": "rm -rf node_modules",
     "format": "prettier --write assets/js/*.js",
     "lint": "eslint assets/js/*.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "gulp-clean-test": "npm run clean; hugo; gulp cleanup"
   },
   "repository": {
     "type": "git",
     "url": "git+https://jamesETF@github.com/jamesETF/ethical-frenchie.git"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Juan Villela",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jamesETF/ethical-frenchie/issues"
@@ -55,11 +55,15 @@
     "gulp-concat-util": "^0.5.5",
     "gulp-exec": "^3.0.2",
     "gulp-gm": "0.0.9",
+    "gulp-htmlmin": "^5.0.1",
     "gulp-imagemin": "^5.0.3",
+    "gulp-jsbeautifier": "^3.0.0",
     "gulp-plumber": "^1.2.0",
     "gulp-postcss": "^7.0.1",
     "gulp-rename": "^1.4.0",
+    "gulp-replace": "^1.0.0",
     "gulp-sass": "^4.0.1",
+    "gulp-strip-comments": "^2.5.2",
     "imagemin-mozjpeg": "^8.0.0",
     "imagemin-pngquant": "^7.0.0",
     "imagemin-svgo": "^7.0.0",
