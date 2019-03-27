@@ -9,5 +9,32 @@
 <body>
   <!-- Include the script that builds the page and powers Netlify CMS -->
   <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+  <script>
+    CMS.registerEditorComponent({
+      // Internal id of the component
+      id: `img`,
+      // Visible label
+      label: `Image`,
+      // Fields the user need to fill out when adding an instance of the component
+      fields: [{ name: `id`, label: `Image file`, widget: `string` }],
+      // Pattern to identify a block as being an instance of this component
+      pattern: /^img (\S+)$/,
+      // Function to extract data elements from the regexp match
+      fromBlock(match) {
+        return {
+          id: match[1],
+        };
+      },
+      // Function to create a text block from an instance of this component
+      toBlock(obj) {
+        return obj.id;
+      },
+      // Preview output for this component. Can either be a string or a React component
+      // (component gives better render performance)
+      toPreview(obj) {
+        return `{{< img src="${obj.id}" >}}`;
+      },
+    });
+  </script>
 </body>
 </html>
