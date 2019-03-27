@@ -5,9 +5,14 @@ const autoprefixer = require('autoprefixer');
 const concat = require('gulp-concat-util');
 const cp = require('child_process');
 const cssnano = require('cssnano');
+const gm = require('gulp-gm');
 const gulp = require('gulp');
 const htmlbeautify = require('gulp-jsbeautifier');
 const htmlmin = require('gulp-htmlmin');
+const imagemin = require('gulp-imagemin');
+const imageminMozjpeg = require('imagemin-mozjpeg');
+const imageminPNGquant = require('imagemin-pngquant');
+const imageminSVGo = require('imagemin-svgo');
 const plumber = require('gulp-plumber');
 const postcss = require('gulp-postcss');
 const rename = require('gulp-rename');
@@ -66,6 +71,43 @@ function webpack() {
     stdout: true
   });
 }
+// Image Conversion
+function convert() {
+  return gulp
+    .src('assets/img/blog/*.jpg')
+    .pipe(plumber())
+    .pipe(
+      gm(function(gmfile) {
+        return gmfile.setFormat('webp');
+      })
+    )
+    .pipe(gulp.dest('assets/img/blog'));
+}
+
+// Image Optimization
+function optimize() {
+  return gulp
+    .src(['assets/img/*.jpg','assets/img/*.png','assets/img/*.svg'])
+    .pipe(plumber())
+    .pipe(
+      cache(
+        imagemin({
+          use: [
+            imageminMozjpeg({
+              quality: 80
+            }),
+            imageminPNGquant({
+              quality: [0.3, 0.5]
+            }),
+            imageminSVGo({
+              removeViewBox: true
+            })
+          ]
+        })
+      )
+    )
+    .pipe(gulp.dest('assets/img'));
+}
 
 // Watch asset folder for changes
 function watchFiles() {
@@ -85,8 +127,10 @@ function watchFiles() {
 
 // Tasks
 gulp.task('cleanup', clean);
-gulp.task("critical", critical);
+gulp.task('convert', convert);
+gulp.task('optimize', optimize);
 gulp.task('webpack', webpack);
+gulp.task("critical", critical);
 
 // Run Watch as default
 gulp.task('watch', watchFiles);

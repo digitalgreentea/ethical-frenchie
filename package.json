@@ -8,6 +8,8 @@
     "build-dev": "gulp build --max_old_space_size=8000; node hash.js; hugo --environment=development; gulp cleanup",
     "clean": "rm -rf public resources",
     "clean-node": "rm -rf node_modules",
+    "develop-gulp": "gulp build; gulp watch",
+    "develop-hugo": "hugo; hugo serve",
     "format": "prettier --write assets/js/*.js",
     "lint": "eslint assets/js/*.js",
     "gulp-clean-test": "npm run clean; hugo; gulp cleanup"

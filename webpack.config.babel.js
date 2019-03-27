@@ -35,7 +35,7 @@ export default {
       plugins: [
         imageminMozjpeg({
           test: /\.(jpe?g)$/,
-          quality: 60,
+          quality: 80,
           progressive: true
         })
       ]
