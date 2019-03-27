@@ -11,7 +11,7 @@ showthedate: false
 ## Hey guys Sketch here!
 I’m a blue ( if you want to know how much do blue french bulldog puppies coast – inquire by clicking here) French Bulldog and as my name tells you I find everything sketchy. It takes a minute for me to warm up / get out of my shell and show my true colors, but when I do, I’m the most loving and cuddly little pup.
 
-{{< img src="puppies/sketch_1.jpg" alt="Sketch" >}}
+{{< img src="puppies/sketch_1" type="jpg" alt="Sketch" >}}
 
 My motto is: Has big ears, still doesn’t listen, so I’m looking for a partner in crime that can handle that. What makes me different from my brother and sister is the fact that I’m all blue – no white stripe.
 
@@ -21,9 +21,9 @@ Sketch is a healthy little guy. Dewormed, up to date on all his shots, etc. Come
 
 **Location**: Raleigh, NC
 
-{{< img src="puppies/sketch_2.jpg" alt="Sketch" >}}
-{{< img src="puppies/sketch_3.jpg" alt="Sketch" >}}
-{{< img src="puppies/sketch_4.jpg" alt="Sketch" >}}
+{{< img src="puppies/sketch_2" type="jpg" alt="Sketch" >}}
+{{< img src="puppies/sketch_3" type="jpg" alt="Sketch" >}}
+{{< img src="puppies/sketch_4" type="jpg" alt="Sketch" >}}
 
 ## How much do blue French Bulldog puppies cost
 So.. you’re wondering **how much do blue French Bulldog puppies cost**? The answer is it varies. It depends on their structure, sex, coat pattern, eye color, etc. It also depends on the breeder – how much and money they initially invest in the whole whelping process and if they are selling you the dog with or without breeding rights. Prices go from 3000$ up to 10.000$ and more.

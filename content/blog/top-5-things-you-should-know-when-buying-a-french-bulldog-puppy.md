@@ -16,11 +16,11 @@ So.. **what to know when buying a French Bulldog Puppy?** First let’s get over
 
 Unfortunately the French Bulldog breed definitely isn’t for everyone. <a href="https://ethicalfrenchie.com/puppies/">French Bulldog Puppies</a> require a lot of care and devotion that not every pet owner can provide, either due to lack of time, financial limits, etc.. If you fell in love with this breed like many do be prepared to deal with some health issues, snorting, flatulence, etc.
 
-{{< img src="blog/top-5-things-you-should-know-when-buying-a-french-bulldog-puppy_1.jpg" alt="French Bulldog" >}}
+{{< img src="blog/top-5-things-you-should-know-when-buying-a-french-bulldog-puppy_1" type="jpg" alt="French Bulldog" >}}
 
 **Flatulence** can often be fixed by offering top quality food. We made a list of **delicious French Bulldog food recipes** if you are prepared to cook for your French Bulldog Puppy. If you can’t commit to that, consider feeding your dog some of these **top quality French Bulldog foods brands** from our blog. You will avoid many health issues/allergies by investing in a food that is actually nutritious.
 
-{{< img src="blog/top-5-things-you-should-know-when-buying-a-french-bulldog-puppy_2.jpg" alt="Top quality French Bulldog foods brands" >}}
+{{< img src="blog/top-5-things-you-should-know-when-buying-a-french-bulldog-puppy_2" type="jpg" alt="Top quality French Bulldog foods brands" >}}
 
 Another important thing on the list of **“What to know when buying a French Bulldog”** is definitely the fact that they usually can’t swim. French Bulldogs come in all shapes and forms, from skinny ones with a smaller head and longer legs, to stocky ones with big wrinkly head. It’s usually the stocky ones that sink due to their body shape. But we wouldn’t take a risk and that’s why you should never leave your Frenchie unattended around water without a life vest. There are many online stores that offer cute, fashionable vests, like this.
 
@@ -30,7 +30,7 @@ French Bulldogs are usually stubborn and it takes a while to completely potty tr
 
 Now let’s just skip to supplies and grooming tips…
 
-{{< img src="blog/top-5-things-you-should-know-when-buying-a-french-bulldog-puppy_3.jpg" alt="French Bulldog potty training" >}}
+{{< img src="blog/top-5-things-you-should-know-when-buying-a-french-bulldog-puppy_3" type="jpg" alt="French Bulldog potty training" >}}
 
 ## Basic French Bulldog Supplies:
 1. **Start with a comfy bed.** French bulldogs love to snuggle so this {{< link href="https://www.amazon.com/Best-Friends-Sheri-DNT-SHG-TAU-2323-VP-Multiple/dp/B01MV0IX66/ref=sr_1_3?ie=UTF8&qid=1544552685&sr=8-3&keywords=best+friends+dog+bed" content="Best Friends Donut Cuddler" >}} one is always a popular choice.
@@ -43,11 +43,11 @@ Now let’s just skip to supplies and grooming tips…
 8. **Gentle puppy shampoo, hair comb and nail trimmer.**
 9. Not really a supply but think about invest into a **doggy insurance plan**.
 
-{{< img src="blog/top-5-things-you-should-know-when-buying-a-french-bulldog-puppy_4.jpg" alt="Basic French Bulldog Supplies" >}}
+{{< img src="blog/top-5-things-you-should-know-when-buying-a-french-bulldog-puppy_4" type="jpg" alt="Basic French Bulldog Supplies" >}}
 
-{{< img src="blog/top-5-things-you-should-know-when-buying-a-french-bulldog-puppy_5.jpg" alt="Basic French Bulldog Supplies" >}}
+{{< img src="blog/top-5-things-you-should-know-when-buying-a-french-bulldog-puppy_5" type="jpg" alt="Basic French Bulldog Supplies" >}}
 
-{{< img src="blog/top-5-things-you-should-know-when-buying-a-french-bulldog-puppy_6.jpg" alt="Basic French Bulldog Supplies" >}}
+{{< img src="blog/top-5-things-you-should-know-when-buying-a-french-bulldog-puppy_6" type="jpg" alt="Basic French Bulldog Supplies" >}}
 
 ## What to Know When Buying a French Bulldog – Spoiled Puppy Edition, because having a Frenchie is just like having another kid
 1. The famous paw soother and snout soother from {{< link href="https://naturaldogcompany.com/" content="The Natural Dog" >}} company.

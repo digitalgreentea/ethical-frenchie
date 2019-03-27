@@ -12,7 +12,7 @@ showthedate: true
 ---
 
 ## 1. Beef Stew by Canine Journal
-{{< img src="blog/home-cooked-food-for-your-french-bulldog_1.jpg" alt="Beef Stew by Canine Journal" >}}
+{{< img src="blog/home-cooked-food-for-your-french-bulldog_1" type="jpg" alt="Beef Stew by Canine Journal" >}}
 
 ### Ingredients
 - 1 pound of beef stew meat
@@ -37,7 +37,7 @@ showthedate: true
 10. Store remaining stew in the fridge for up to five days.
 
 ## 2. Veggies and Turkey Mix
-{{< img src="blog/home-cooked-food-for-your-french-bulldog_2.jpg" alt="Veggies and Turkey Mix" >}}
+{{< img src="blog/home-cooked-food-for-your-french-bulldog_2" type="jpg" alt="Veggies and Turkey Mix" >}}
 
 ### Ingredients
 6 cups water
@@ -75,7 +75,7 @@ showthedate: true
 5. **Pro Tip:** Mix in some bone broth powder into the stew. It is so healthy and dogs love the taste. Learn more about bone broth.
 
 ## 4. The Doggy Pot
-{{< img src="blog/home-cooked-food-for-your-french-bulldog_3.jpg" alt="The Doggy Pot" >}}
+{{< img src="blog/home-cooked-food-for-your-french-bulldog_3" type="jpg" alt="The Doggy Pot" >}}
 
 ### Ingredients
 - 3 cups white basmati rice

@@ -17,7 +17,6 @@ It can be frustrating as accidents do happen and smells do occur! But we love th
 **So please be patient and take your time with your new and ‘unskilled’ French bulldog, and to help you we have put together loads of information on how to train your French bulldog.**
 
 ## How To Crate Train Your French Bulldog
-{{< img src="blog/potty-train-your-frenchie_1.gif" alt="Crate Train Your French Bulldog" >}}
 
 **Crate training is when you confine your Frenchie to a crate when you are unable to directly supervise him.** Also when you wish to teach your Frenchie to relieve themselves in the right area. **Develop a daily potty routine that includes leashing your Frenchie as soon as you wake up and telling him or her “let’s go potty!” This will familiarise the phrase with your puppy when relieving itself.**
 
@@ -29,8 +28,6 @@ Make sure you repeat this routine after each of your puppy’s meals, before you
 
 ## Potty Training Your French Bulldog
 Each time the puppy goes in the right spot, he is being trained to relieve himself there. Consistent training with your puppy will bring consistent results You may found it helpful to have an exercise pen for the house, and one for the yard. **But please so not leave your Frenchie out in cold or alone in hot weather.**
-
-{{< img src="blog/potty-train-your-frenchie_2.gif" alt="Potty Training Your French Bulldog" >}}
 
 Place the other exercise pen in the spot you wish your Frenchie puppy to use as a permanent potty spot, both as a puppy and adult. State commands like “go potty” or “hurry up.” **After he does his duty give him a treat and tell him he was a good boy. Use your Happy Voice! If you provide your French bulldog puppy with a crate that is way too large then it may allow him to relieve himself in one end and sleep in the other which isn’t good!**
 

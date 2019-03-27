@@ -1,5 +1,9 @@
-{{ $img := resources.Get (print "img/" (.Get "src")) }}
-<figure class="img-wrap">
-  <img data-src="{{ $img.Permalink }}" {{ with .Get "alt"}}alt="{{.}}"{{ end }} class="lazy"/>
-  {{ with .Get "caption" }}<figcaption>{{.}}</figcaption>{{ end }}
-</figure>
+{{ $type := (print "." (.Get "type")) }}
+{{ $webp := resources.Get (print "img/" (.Get "src") ".webp") }}
+{{ $img := resources.Get (print "img/" (.Get "src") $type) }}
+<picture {{ with .Get "id" }}id="{{.}}"{{ end }} class="img-wrap">
+  <source data-srcset="{{ $webp.RelPermalink }}" type="image/webp">
+  <source data-srcset="{{ $img.RelPermalink }}" type="image/{{ $type }}">
+  <img data-src="{{ $img.RelPermalink }}" {{ with .Get "alt"}}alt="{{.}}"{{ end }} class="lazy {{ with .Get "class" }}{{.}}{{ end }}"/>
+  {{ with .Get "caption" }}<p>{{.}}</p>{{ end }}
+</picture>

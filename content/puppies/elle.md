@@ -12,7 +12,7 @@ I’m Elle, a 3 month old blue Frenchie girl. I’m very tiny, but as spunky as 
 
 I love playing with other puppies and am very well socialized. At a young age I was exposed to as many people and situations as possible – so now I’m fearless and ready for my new home.
 
-{{< img src="puppies/elle_1.jpg" alt="Elle" >}}
+{{< img src="puppies/elle_1" type="jpg" alt="Elle" >}}
 
 **Looking for a blue girl to love? Fill out the application ASAP…. I’m so cute I just know I won’t be available much longer. Don’t test your luck.**
 

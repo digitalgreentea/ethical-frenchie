@@ -11,7 +11,7 @@ showthedate: false
 ## I’m Greta, a blue pied French Bulldog.
 But here’s the trick. I’m what they call a tea cup French Bulldog puppy. A tea cup French Bulldog puppy is a puppy that stays on the smaller side. I probably won’t exceed 18 lbs when I’m fully grown.
 
-{{< img src="puppies/greta_1.jpg" alt="Greta" >}}
+{{< img src="puppies/greta_1" type="jpg" alt="Greta" >}}
 
 How does that happen you wonder? Well both of my parents are very small French Bulldogs, as were their parents. I’m not what they call a runt..I’m just genetically predisposed to being tiny, that’s all.
 
@@ -23,5 +23,5 @@ Before they let me go I will have my DHHP shot, Bordatella shot, will be deworme
 
 **Location**: Raleigh, NC
 
-{{< img src="puppies/greta_2.jpg" alt="Greta" >}}
-{{< img src="puppies/greta_3.jpg" alt="Greta" >}}
+{{< img src="puppies/greta_2" type="jpg" alt="Greta" >}}
+{{< img src="puppies/greta_3" type="jpg" alt="Greta" >}}

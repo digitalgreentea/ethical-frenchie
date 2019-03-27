@@ -55,10 +55,10 @@ blockquote {
   margin: 0 0 15px 0;
   padding-left: 15px;
 }
-figure {
+figure, picture {
   @extend %full-width;
 }
-figure,
+figure, picture,
 h1, h2, h3, h4,
 nav > *,
 p {

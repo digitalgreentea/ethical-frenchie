@@ -18,7 +18,7 @@ Before you start breeding your **French Bulldog** you should educate yourself as
 ## Before Birth
 **French Bulldog** pregnancy lasts from **58-63 days**. You will be able to confirm the pregnancy with an ultra-sound after **30 days**. So make the appointment with your local vet as soon as possible. However you won’t be able to know how many puppies are in there until the **50th day** when the little bones mineralize (you will be able to confirm that with an X-ray). The price of the ultra sound and X-ray really depends from city to city.
 
-{{< img src="blog/french-bulldog-whelping-101_1.jpg" alt="French Bulldog X-ray" >}}
+{{< img src="blog/french-bulldog-whelping-101_1" type="jpg" alt="French Bulldog X-ray" >}}
 
 Right after you confirmed your **French Bulldog** is pregnant, switch her to a high quality puppy food. Puppy food contains more nutrients than the adult food, which are crucial for the development of the babies. **By the 5th week she should be consuming 20-30% more food than pre-pregnancy.** Deworm your dam, so you prevent her from infecting the puppies at birth. Let your vet recommend a product that is safe for a pregnant dog.
 
@@ -48,20 +48,20 @@ At that point it’s time to take her in for a C-section, or if you are free-whe
 - **Lots of blankets.** You will be switching blankets several times per day. You have to keep the whelping box clean at all times.
 - **Baby wipes.** There will be a lot of mess. Use gentle baby wipes to clean the pups up.
 
-{{< img src="blog/french-bulldog-whelping-101_2.jpg" alt="Whelping 101 Kit" >}}
+{{< img src="blog/french-bulldog-whelping-101_2" type="jpg" alt="Whelping 101 Kit" >}}
 
-{{< img src="blog/french-bulldog-whelping-101_3.jpg" alt="Whelping 101 Kit" >}}
+{{< img src="blog/french-bulldog-whelping-101_3" type="jpg" alt="Whelping 101 Kit" >}}
 
 ## Week 1
 1. **Weight the puppies and take their temperature daily.** Make sure it doesn’t drop below 97 degrees. They can’t regulate their temperature and getting cold can result in death.
 2. **Feed them every 2 hours.** It would be helpful if you have someone to assist you, or you will end up being a walking zombie. Puppies need to be fed every 2 hours for the first 10 days of their life.
 3. **Make sure they are all pooping and peeing.** They can’t do it on their own so the mom will stimulate them by licking. If she refuses to do it, you will have to jump in. Take a warm cloth and massage the area under their anus until they start urinating/defecating.
 
-{{< img src="blog/french-bulldog-whelping-101_4.jpg" alt="Make sure they are all pooping and peeing." >}}
+{{< img src="blog/french-bulldog-whelping-101_4" type="jpg" alt="Make sure they are all pooping and peeing." >}}
 
-{{< img src="blog/french-bulldog-whelping-101_5.jpg" alt="Make sure they are all pooping and peeing." >}}
+{{< img src="blog/french-bulldog-whelping-101_5" type="jpg" alt="Make sure they are all pooping and peeing." >}}
 
-{{< img src="blog/french-bulldog-whelping-101_6.jpg" alt="Make sure they are all pooping and peeing." >}}
+{{< img src="blog/french-bulldog-whelping-101_6" type="jpg" alt="Make sure they are all pooping and peeing." >}}
 
 
 4. **It’s important to make sure they are pooping and don’t get bloated.** The pressure from the bloat can damage their internal organs. If you see a puppy that is fussy, looks bloated and isn’t pooping after every meal chances are the pup is constipated. But don’t freak out. Take a syringe with 5ml of luke warm distilled water and **slowly** squirt it up their anus. Wait 30 seconds and start massaging with a warm cloth until they poop.
@@ -71,7 +71,7 @@ At that point it’s time to take her in for a C-section, or if you are free-whe
 
 Observe the mom, don’t forget she still has to follow the **increased food regime**, since she is producing milk for several puppies. You can start supplementing her with {{< link href="https://primalpetfoods.com/products/raw-goat-milk#variant=36507811666" content="Raw Goat milk" >}}, to increase calcium intake after birth.
 
-{{< img src="blog/french-bulldog-whelping-101_7.jpg" alt="Raw Goat milk" >}}
+{{< img src="blog/french-bulldog-whelping-101_7" type="jpg" alt="Raw Goat milk" >}}
 
 ## Week 2
 **Puppies should be gaining weight daily.** They are regulating their own temperature and also slowly opening their eyes and ears. They will be reacting to sounds and will start recognizing their mom, siblings and yourself. **You will also notice they are testing their voice** by doing “scary” growls, barks and whines. Don’t expose them to flash or a very bright light, since their eyes are technically still developing and very sensitive. **Start trimming puppy nails.** I just use human trimmers at that point, since the nails are soft and tiny. It’s important to trim them regularly so they don’t make the dam **uncomfortable while nursing**. I swear puppy nails are murder weapons.

@@ -492,7 +492,7 @@ main {
           max-width: 1190px;
           min-height: 335px;
           padding: 0;
-          figure.img-wrap {
+          figure.img-wrap, picture.img-wrap {
             @extend %content-center;
             @extend %flex;
             @extend %full-width;
@@ -790,7 +790,7 @@ main {
   }
   article.post {
     padding: 15px;
-    figure {
+    figure, picture {
       @extend %flex;
       border-radius: 15px;
       overflow: hidden;
@@ -867,7 +867,7 @@ main {
       p:empty {
         @extend %none;
       }
-      figure.img-wrap {
+      figure.img-wrap, picture.img-wrap {
         height: 400px;
         margin: 15px 0;
         img {
@@ -901,7 +901,7 @@ main {
       }
     }
     section.content {
-      figure.img-wrap {
+      figure.img-wrap, picture.img-wrap {
         height: 100%;
         max-height: 600px;
       }
