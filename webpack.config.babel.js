@@ -6,10 +6,10 @@ import imageminMozjpeg from 'imagemin-mozjpeg'
 export default {
   mode: process.env.NODE_ENV || 'production',
   entry: [
+    './assets/js/swiper.js',
     './assets/js/smooth.js',
     './assets/js/testimonials.js',
     './assets/js/lazy.js',
-    './assets/js/swiper.js',
   ],
   output: {
     path: path.resolve(__dirname, 'assets', 'js'),
