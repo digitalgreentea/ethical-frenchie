@@ -31,4 +31,7 @@ const swiperPup = new Swiper(`.swiper-puppies`, {
     prevEl: `.swiper-button-prev`,
   },
   slidesPerView: 1,
+  autoplay: {
+    delay: 5000,
+  },
 });

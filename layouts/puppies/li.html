@@ -1,6 +1,12 @@
 <article id="{{ .Title }}" class="pup-item">
+  {{ $jpg := replaceRE "jpg" "webp" .Params.image }}
+  {{ $webp := resources.Get (print "img/puppies/" $jpg) }}
   {{ $img := resources.Get (print "img/puppies/" .Params.image) }}
-  <figure class="img-wrap"><img data-src="{{ $img.Permalink }}" alt="{{ .Title }}" class="lazy"></figure>
+  <picture class="img-wrap">
+    <source data-srcset="{{ $webp.Permalink }}" type="image/webp">
+    <source data-srcset="{{ $img.Permalink }}" type="image/jpg">
+    <img data-src="{{ $img.Permalink }}" alt="{{ .Title }}" class="lazy"/>
+  </picture>
   <h2 class="name">{{ .Title }}</h2>
   <p class="desc">{{ .Params.description }}</p>
   {{ $name := replaceRE " " "-" (.Title | lower) }}

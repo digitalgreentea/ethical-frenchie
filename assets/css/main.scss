@@ -476,7 +476,7 @@ main {
         @extend %content-space-between;
         @extend %flex;
         @extend %full-width;
-        @extend %items-center;
+        @extend %items-flex-start;
         margin: 0;
         padding: 15px 0;
         article.pup-item {
@@ -498,12 +498,11 @@ main {
             @extend %full-width;
             @extend %items-center;
             border-radius: 15px;
-            height: auto;
-            margin: 0 0 15px;
-            max-height: 1065px;
-            max-width: 1160px;
+            height: 100%;
+            margin: 0 auto 15px;
+            max-height: 916px;
+            max-width: 680px;
             overflow: hidden;
-            // width: auto;
             img {
               object-fit: cover;
               object-position: center center;
@@ -517,6 +516,7 @@ main {
             font-size: 16px;
             line-height: 26px;
             margin: 0 0 10px;
+            min-height: 52px;
           }
           a.button {
             @extend %full-width;
