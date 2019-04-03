@@ -4,7 +4,7 @@
 Ethical Frenchie is the most trusted source of French Bulldog puppies for sale. We provides thorough veterinary and genetic examinations for each puppy.
 
 ## Documentation
-There is information on how to get started locally, how to work with content, how to managed dependencies, and how to config Netlify in the documentation. Below you'll find a directory for Nava Solution's documentation.
+There is information on how to get started locally, how to work with content, how to managed dependencies, and how to config Netlify in the documentation. Below you'll find a directory for Ethical Frenchie's documentation.
 
 For a more comprehensive help regarding how to use Hugo, you can check out their extensive [documentation](https://gohugo.io/wiki/) or ask for help in their friendly [community](https://discourse.gohugo.io).
 
