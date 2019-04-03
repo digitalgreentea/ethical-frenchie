@@ -1,5 +1,5 @@
 # Dependencies
-Nava uses several dependencies to build the site. A few of these, which are core to building the site, are mentioned in the [Build Process](https://github.com/jamesETF/ethical-frenchie/blob/master/wiki/build-process.md) page of the Wiki. However, here is a list of all the dependencies used and their use cases.
+EF uses several dependencies to build the site. A few of these, which are core to building the site, are mentioned in the [Build Process](https://github.com/jamesETF/ethical-frenchie/blob/master/wiki/build-process.md) page of the Wiki. However, here is a list of all the dependencies used and their use cases.
 
 ## PostCSS
 PostCSS is used as part of the Sass to CSS compiling. It's used by both Hugo and Gulp. _More information on installing the core package can be found over at the [Build Process](https://github.com/jamesETF/ethical-frenchie/blob/master/wiki/build-process.md) section of the Wiki._

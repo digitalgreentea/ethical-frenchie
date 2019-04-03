@@ -131,7 +131,7 @@ This is already set up on the Netlify build settings.
 ---
 
 ## Further Documentation
-This page explains how these tools fit into Nava's website build process. This should not be used as documentation for each of these tools. For more information on everything you can do with these tools, I highly recommend you refer to their documentation.
+This page explains how these tools fit into EF's website build process. This should not be used as documentation for each of these tools. For more information on everything you can do with these tools, I highly recommend you refer to their documentation.
 - [Hugo Docs](https://gohugo.io/documentation/)
 - [PostCSS](https://github.com/postcss/postcss)
 - [Gulp Docs](https://gulpjs.com/docs/en/getting-started/quick-start)

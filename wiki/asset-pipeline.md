@@ -14,7 +14,7 @@ Images are called using a custom shortcode inside a `picture` tag with the fallb
 <picture>
   <source data-srcset="{{ $ncw.RelPermalink }}" type="image/webp">
   <source data-srcset="{{ $ncj.RelPermalink }}" type="image/jpg">
-  <img data-src="{{ $ncj.RelPermalink }}" alt="Nava Certus" class="lazy prod-logo">
+  <img data-src="{{ $ncj.RelPermalink }}" alt="Electra" class="lazy prod-logo">
 </picture>
 ```
 The `data-src` and `data-srcset` is used in combination with the `lazy` class as an indication for the Lazy Loading library that this image file should be lazy loaded.
