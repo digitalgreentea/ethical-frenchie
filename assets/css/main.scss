@@ -876,6 +876,9 @@ main {
           object-position: center center;
         }
       }
+      picture.img-wrap#left img {
+        object-position: 20% center;
+      }
     }
   }
   article.post.instant {

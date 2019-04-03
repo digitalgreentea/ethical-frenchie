@@ -18,7 +18,7 @@ This litter only produced 3 puppies. Two girls and one boy who unfortunately did
 ## Personality
 Electra could be described as the mellow French Bulldog Puppy sister compared to Sola. She is extremely sweet and easily adjustable to new situations and environments. She is the much smaller and submissive sister, but nonetheless just as special and adorable. Might be a bit shy while adjusting to her new home, so give her time and her personality will shine through. This Merle Frenchie puppy is great with kids and other animals.
 
-{{< img src="puppies/electra_3" type="jpg" alt="Electra" >}}
+{{< img src="puppies/electra_3" type="jpg" alt="Electra" id="left" >}}
 
 ## Health
 If you researched the breed before deciding to buy a French Bulldog puppy, you know the breed in itself comes with some allergies and is very delicate indeed. Electra comes from healthy bloodlines and aren’t predisposed to any genetic conditions. Before leaving for their homes she will be up to date on their shots, dewormed on multiple occasions and free of any intestinal parasites, microchipped and pre-spoiled. They also come with a health guarantee. We consider ourselves as reputable French Bulldog breeders and focus on health and temperament of the puppies – ALWAYS.
