@@ -29,14 +29,14 @@
       toBlock(obj) {
         const name = (obj.id).replace(/(.png|.jpg)/, "");
         const ext = (obj.id).match(/(png|jpg)/);
-        return `{{< img src="${name}" type="${ext}" >}}`;
+        return `{{< img src="${name}" type="${ext[1]}" >}}`;
       },
       // Preview output for this component. Can either be a string or a React component
       // (component gives better render performance)
       toPreview(obj) {
         const name = (obj.id).replace(/(.png|.jpg)/, "");
         const ext = (obj.id).match(/(png|jpg)/);
-        return `{{< img src="${name}" type="${ext}" >}}`;
+        return `{{< img src="${name}" type="${ext[1]}" >}}`;
       },
     });
   </script>
