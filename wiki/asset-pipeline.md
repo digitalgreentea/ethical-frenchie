@@ -27,6 +27,15 @@ Images are also optimized using a combination of different optimization tools. T
 
 This will create the `.webp` files inside the same directory.
 
+### CMS
+To use the image shortcode with Netlify CMS, follow these directions:
+
+1. On the body input area, you'll notice a **plus** icon with a **carret pointing down**.
+2. Click that and select `Image Shortcode`.
+3. On the **image path** filed, type the file name with the extension.
+
+And that's it. The shortcode will be generated. You should be able to see it as well in the preview panel on the right.
+
 ## Stylesheets
 These live in the `assets/css` directory. They are written using SCSS and compile with [PostCSS](https://postcss.org). There is a `postcss.config.js` configuration file which declared the plugins used for minification and browser prefixing, among other vital plugins used for proper CSS render.
 
