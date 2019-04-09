@@ -8,7 +8,6 @@
   const staticAssets = [
     `/`,
     `/offline/`,
-    `/puppies/`,
     `/css/main.min.css`,
     `/fonts/Montserrat-Italic.woff`,
     `/fonts/Montserrat-Italic.woff2`,
@@ -28,16 +27,12 @@
     // These items must be cached for the Service Worker to complete installation
     return caches.open(staticCacheName).then(cache => {
       return cache.addAll(
-        staticAssets.map(url => {
-          return new Request(url, { credentials: `include` });
-        })
+        staticAssets.map(url => new Request(url, {credentials: `include`}))
       );
     });
   }
   function stashInCache(name, request, response) {
-    caches.open(name).then(cache => {
-      return cache.put(request, response);
-    });
+    caches.open(name).then(cache => cache.put(request, response));
   }
   // Limit the number of items in a specified cache.
   function trimCache(name, maxItems) {
@@ -54,12 +49,8 @@
     return caches.keys().then(keys => {
       return Promise.all(
         keys
-          .filter(key => {
-            return key.indexOf(version) !== 0;
-          })
-          .map(key => {
-            return caches.delete(key);
-          })
+          .filter(key => key.indexOf(version) !== 0)
+          .map(key => caches.delete(key))
       );
     });
   }
@@ -71,21 +62,13 @@
     }
   });
   self.addEventListener(`install`, event => {
-    event.waitUntil(
-      updateStaticCache().then(() => {
-        return self.skipWaiting();
-      })
-    );
+    event.waitUntil(updateStaticCache().then(() => self.skipWaiting()));
   });
   self.addEventListener(`activate`, event => {
-    event.waitUntil(
-      clearOldCaches().then(() => {
-        return self.clients.claim();
-      })
-    );
+    event.waitUntil(clearOldCaches().then(() => self.clients.claim()));
   });
   self.addEventListener(`fetch`, event => {
-    const { request } = event;
+    const {request} = event;
     const url = new URL(request.url);
     if (url.href.indexOf(`https://ethicalfrenchie.com`) !== 0) return;
     if (request.method !== `GET`) return;
@@ -107,9 +90,9 @@
           })
           .catch(() => {
             // CACHE or FALLBACK
-            return caches.match(request).then(response => {
-              return response || caches.match(`/offline/`);
-            });
+            return caches
+              .match(request)
+              .then(response => response || caches.match(`/offline/`));
           })
       );
       return;
@@ -126,9 +109,7 @@
         .catch(() => {
           return caches
             .match(request)
-            .then(response => {
-              return response;
-            })
+            .then(response => response)
             .catch(console.error);
         })
     );
