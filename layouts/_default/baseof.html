@@ -30,6 +30,32 @@
   <meta property="og:image" content="{{ $icon.Permalink }}">
   {{ template "_internal/schema.html" . }}
 
+  <!-- Fonts -->
+  {{ $mont2 := resources.Get "fonts/Montserrat-Regular.woff2" }}
+  <link rel="preload" href="{{ $mont2.Permalink }}" as="font" type="font/woff2" crossorigin>
+  {{ $mont := resources.Get "fonts/Montserrat-Regular.woff" }}
+  <link rel="preload" href="{{ $mont.Permalink }}" as="font" type="font/woff" crossorigin>
+  {{ $montb2 := resources.Get "fonts/Montserrat-Bold.woff2" }}
+  <link rel="preload" href="{{ $montb2.Permalink }}" as="font" type="font/woff2" crossorigin>
+  {{ $montb := resources.Get "fonts/Montserrat-Bold.woff" }}
+  <link rel="preload" href="{{ $montb.Permalink }}" as="font" type="font/woff" crossorigin>
+  {{ $monti2 := resources.Get "fonts/Montserrat-Italic.woff2" }}
+  <link rel="preload" href="{{ $monti2.Permalink }}" as="font" type="font/woff2" crossorigin>
+  {{ $monti := resources.Get "fonts/Montserrat-Italic.woff" }}
+  <link rel="preload" href="{{ $monti.Permalink }}" as="font" type="font/woff" crossorigin>
+  {{ $montl2 := resources.Get "fonts/Montserrat-Light.woff2" }}
+  <link rel="preload" href="{{ $montl2.Permalink }}" as="font" type="font/woff2" crossorigin>
+  {{ $montl := resources.Get "fonts/Montserrat-Light.woff" }}
+  <link rel="preload" href="{{ $montl.Permalink }}" as="font" type="font/woff" crossorigin>
+  {{ $ubun2 := resources.Get "fonts/Ubuntu-Regular.woff2" }}
+  <link rel="preload" href="{{ $ubun2.Permalink }}" as="font" type="font/woff2" crossorigin>
+  {{ $ubun := resources.Get "fonts/Ubuntu-Regular.woff" }}
+  <link rel="preload" href="{{ $ubun.Permalink }}" as="font" type="font/woff" crossorigin>
+  {{ $ubunb2 := resources.Get "fonts/Ubuntu-Bold.woff2" }}
+  <link rel="preload" href="{{ $ubunb2.Permalink }}" as="font" type="font/woff2" crossorigin>
+  {{ $ubunb := resources.Get "fonts/Ubuntu-Bold.woff" }}
+  <link rel="preload" href="{{ $ubunb.Permalink }}" as="font" type="font/woff" crossorigin>
+
   <!-- Critical -->
   {{ partial "critical.html" . }}
 
