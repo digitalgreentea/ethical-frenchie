@@ -5,7 +5,7 @@ description: >-
 email: 'adopt@ethicalfrenchie.com'
 address: '17 State ST, 40th floor'
 city: 'New York, NY 10004'
-phone: '212-739-0182'
+phone: '+1-212-739-0182'
 draft: false
 showthedate: false
 ---
